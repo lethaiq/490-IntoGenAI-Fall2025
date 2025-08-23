@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Thai Le
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: tle@iu.edu
+website: https://lethaiq.github.io/
+# photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Mon/Wed 10:50 AM–12:30 PM (email to schedule).
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](mailto:tle@iu.edu?subject=Request Office Hours 490){: .btn .btn-outline }

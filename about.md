@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About and Policy
 description: >-
     Course policies and information.
 ---
 
-# About
+# About and Policy
 {:.no_toc}
 
 ## Table of contents
@@ -18,16 +18,53 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Welcome to the Intro to Generative AI and Its Application course. This is a seminar course and is structured with lectures, hands-on coding labs and in-depth discussions.
 
-## Lecture
+## Course Description
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Generative AI is reshaping how computers create text, images, code, and more. This course introduces the basics of modern generative AI models, including autoencoders, large language models (LLMs), diffusion models. The course introduces key concepts like neural networks, representation learning, transformers, and transfer learning while focusing on applying those concepts to build practical applications using open-source tools and frameworks. Through hands-on projects, you will work with manual and automated prompt engineering, customize llm models, and build applications such as chatbots, RAG systems, speech and image synthesis. The course also discusses important topics like hallucination, security, ethical use, and safeguarding those applications against misuses like deepfakes, bias, and privacy risks.
 
-## Resources
+## Prerequisites
+- Comfortable with **Python** and basic data structures
+- Prior ML knowledge would be very helpful but not required; a brief **ML refresher** is included in Weeks 2–3
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Required materials
+- There is no required textbook; all course reference materials are supplied in-class.
+- Generative AI software credit purchases are optional.
+- The course will utilize free open-source software, frameworks and free access to commercial generative
+AI services including but not limited to ChatGPT, Gemini, and Claude.
+- Students are expected to supply a personal working laptop computer of sufficient memory and storage with permissions to install and use course software.
 
-## Assignments
+## Grading & Assessments
+Gradings of all assignments, quizzes, attendance and other assessments will be updated on Canvas. The course will include the following components with respective weights:
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+| Component | Weight | Description |
+|---|---:|---|
+| Participation & Attendance | **20%** | In‑class attendance and engagement |
+| Labs & Coding Assignments | **15%** | coding with write‑ups and analysis |
+| Reading Quizzes | **5%** | Short 5-min reading quizzes |
+| Paper Presentations | **10%** | Group presentations |
+| Midterm Project (Individual) | **25%** | Working demo + report + video + in‑class presentation |
+| Final Project (Team) | **25%** | Working demo + report + video |
+
+
+*grading assessments are subject to change
+
+## Attendance
+Regular attendance and active participation are expected. If you are unable to attend, email the instructor in advance.
+
+## Electronics
+Laptops/phones are allowed for course work only; avoid distracting others.
+
+## Late Policy
+- Late submissions accepted up to **1 week** for at most **70%** credit maximum.
+- Contact instructor proactively for emergencies.
+
+## Communication
+Check your email and this course website regularly for updates.
+
+## Accommodations
+Students needing accommodations should contact the instructor as early as possible.
+
+## Academic Integrity
+Use of generative AI must follow assignment instructions. Disallowed use (e.g., submitting AI‑written code as your own when not permitted) is an integrity violation. IU's acdemic integrity is applied.

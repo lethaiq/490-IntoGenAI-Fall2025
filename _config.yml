@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 490-Into to Gen AI
+title: 490GenAI
 tagline: genai
 description: Course Website for Undergraduate Seminar Course 490 at IUB
 author: Thai Le
@@ -28,11 +28,32 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  # Kevin Lin:
-  #   - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  ARKAI Lab:
+    - 'https://lethaiq.github.io/tql3/'
+  IU Luddy:
+    - 'https://luddy.indiana.edu/index.html'
 footer_content:
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  info:
+    title: Info
+    color: blue
+  remind:
+    title: Remind
+    color: green
+
+nav_external_links:
+  - title: Access Course on Canvas
+    url: https://iu.instructure.com/courses/2329710
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Access Course on Top Hat
+    url: https://app.tophat.com/e/379521/
+    hide_icon: false
+    opens_in_new_tab: true
 
 # Collections for website data
 collections:
@@ -40,6 +61,13 @@ collections:
   modules:
   schedules:
   announcements:
+  # posts:
+
+# just_the_docs:
+#   collections:
+#     posts:
+#       name: Posts
+
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -55,11 +83,11 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
+  # - scope:
+  #     path: ''
+  #     type: schedules
+  #   values:
+  #     layout: schedule
   - scope:
       path: ''
       type: announcements
