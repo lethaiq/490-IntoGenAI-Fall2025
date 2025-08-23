@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 490 - Introduction to Gen AI and its Applications
+title: 490-Into to Gen AI
 tagline: genai
 description: Course Website for Undergraduate Seminar Course 490 at IUB
 author: Thai Le
-baseurl: '/490-introgenai-fall2025' # the subpath of your site, e.g. /blog
-url: 'https://lethaiq.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/490-IntoGenAI-Fall2025' # the subpath of your site, e.g. /blog
+url: 'https://lethaiq.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
