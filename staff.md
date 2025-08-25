@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Staff
+title: Instructor
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# Instructor
 
 <!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
 
