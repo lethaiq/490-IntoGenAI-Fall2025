@@ -7,7 +7,7 @@ Aug 25 (✔)
 : **Lab**{: .label .label-purple } [Setup local environment for the course]({{ site.baseurl }}{% link posts/environment.md %})
 
 Aug 27
-: What is AI and Gen AI? Current Development and Challenges
+: [What is AI and Gen AI? Current Development and Challenges](https://iu.instructure.com/courses/2329710/files/193902152?module_item_id=36770363)
 
 Sep 1
 : **Holiday – Labor Day (No Class)**
