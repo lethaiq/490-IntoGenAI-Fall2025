@@ -71,8 +71,12 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 ### Get [OpenRouter.AI](http://OpenRouter.AI) Key
 
 ### Integrating [OpenRouter.AI](http://OpenRouter.AI) with WebUI
-
+First make sure you enable "Direct Connections" first in the "Admin" setting.
+![Screenshot 2025-09-03 at 4.12.05 PM.png](Environment%20Setup%2024891c1b1a5d8085833eed36af691ded/Screenshot 2025-09-03 at 4.12.05 PM.png)
+Then, you can now setup a direct connection with OpenRouter below in "User" setting.
 ![Screenshot 2025-07-26 at 8.41.21 PM.png](Environment%20Setup%2024891c1b1a5d8085833eed36af691ded/Screenshot_2025-07-26_at_8.41.21_PM.png)
+If done successfully, you should be able to choose an available model on OpenRouter in the "Direct" mode. **❗❗❗ Make sure you know how much each of these models charge ($$) before starting chatting with them.**
+![Screenshot 2025-09-03 at 4.15.38 PM.png](Environment%20Setup%2024891c1b1a5d8085833eed36af691ded/Screenshot 2025-09-03 at 4.15.38 PM.png)
 
 ### Chatting with Commercial LLMs
 You can try chatting with [GPT-4o-mini](https://openrouter.ai/openai/gpt-4o-mini-search-preview) with WebUI ***(❗❗❗This will incur cost (~$0.03). There are other free models that you can use as well, but rate is very limited)***
