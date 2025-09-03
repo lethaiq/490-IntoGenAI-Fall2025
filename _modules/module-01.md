@@ -19,6 +19,5 @@ Sep 3 (✔)
 
 Sep 8
 : Refresh: ML Basics, Discriminative vs Generative, Representation Learning (cont)
-: **Lab**{: .label .label-purple } Your first AI applications: TBD
-<!-- [lab1_first_ai_application.py](https://drive.google.com/file/d/1327JWIPh04z6LHx-AEn9WWrSwCvoKKHl/view?usp=sharing), [lab1b_first_ap_application.py](https://drive.google.com/file/d/1mqepgHfF6SORxgqDVfpL_1ecOplkaskT/view?usp=sharing), [lab2_first_api_query.py](https://drive.google.com/file/d/1xeDKJL-CiSCqtLeNffNAE_p2hkj1Opld/view?usp=sharing) -->
+: **Lab**{: .label .label-purple } Your first AI applications: [lab1_first_ai_application.py](https://drive.google.com/file/d/1327JWIPh04z6LHx-AEn9WWrSwCvoKKHl/view?usp=sharing), [lab1b_first_ap_application.py](https://drive.google.com/file/d/1mqepgHfF6SORxgqDVfpL_1ecOplkaskT/view?usp=sharing), [lab2_first_api_query.py](https://drive.google.com/file/d/1xeDKJL-CiSCqtLeNffNAE_p2hkj1Opld/view?usp=sharing)
 : **Reading**{: .label .label-green }  [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
