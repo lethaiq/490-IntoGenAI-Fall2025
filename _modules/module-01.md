@@ -9,15 +9,15 @@ Aug 25 (✔)
 Aug 27 (✔)
 : [What is AI and Gen AI? Current Development and Challenges](https://iu.instructure.com/courses/2329710/files/193902152?module_item_id=36770363)
 
-Sep 1
+Sep 1 (✔)
 : **Holiday – Labor Day (No Class)**
 
 Sep 3
 : Refresh: ML Basics, Discriminative vs Generative, Representation Learning
-: **Lab**{: .label .label-purple } Your first AI applications: link, link link
 : **Reading**{: .label .label-green } [link](https://link.springer.com/article/10.1007/s12525-021-00475-2) 
 : **Release**{: .label .label-blue } HW1
 
 Sep 8
 : Refresh: Deep Learning, Autoencoders, Word2Vec
+: **Lab**{: .label .label-purple } Your first AI applications: link, link link
 : **Reading**{: .label .label-green }  [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)

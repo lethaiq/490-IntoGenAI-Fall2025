@@ -28,9 +28,16 @@ description: >-
 - [Wonder What Prompts Exisiting Software Use?](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Text-to-Image Prompt Database - DiffusionDB](https://github.com/poloclub/diffusiondb)
 
-## Advanced Reading Materials
+## AI Landscape
+ - [AI is Slowing Down Tracker](https://aislowdown.replit.app/)
+
+## Advanced Reading Materials/Textbooks
 - [Representation Learning: A Review and New
 Perspectives](https://arxiv.org/pdf/1206.5538) [[blog]](https://www.cs.cmu.edu/~vcirik/blog/2016/representation-learning-a-review-and-new-perspectives/)
+- [Book: Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
+
+## Potential Final (Clone) Projects
+ - [[USmotion]](https://www.usemotion.com/)
 
 ## Other Resources at IU
 - [AI at IU (free resources available to IU students)](https://uits.iu.edu/ai/index.html)
