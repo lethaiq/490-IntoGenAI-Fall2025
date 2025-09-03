@@ -21,6 +21,7 @@ description: >-
 ## Models Related
 - [LLM Leaderboard](https://aider.chat/docs/leaderboards/)
 - [OpenRouter - One API for All Commercial LLMs]([https://openrouter.ai](https://openrouter.ai/))
+- [How to Use Ollama Efficiently](https://www.arsturn.com/blog/handle-high-memory-usage-in-ollama-effectively)
 
 ## Prompt Database and Collection
 - [God-tier Prompts](https://www.godtierprompts.com/)

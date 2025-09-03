@@ -146,3 +146,5 @@ Follow the instruction from [Ollama Benchmark](https://github.com/larryhopecode/
             Generation Time:    120.19s
             Total Time:         120.25s
 ```
+
+Interesting read on how to optimize Ollama on your local environment: [How to Use Ollama Efficiently](https://www.arsturn.com/blog/handle-high-memory-usage-in-ollama-effectively). Basically, make sure you know what models are currently being served/run. Running multiple models at the same time will make your inference much slower.
