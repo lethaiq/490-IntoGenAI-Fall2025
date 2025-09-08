@@ -2,12 +2,12 @@
 title: Building Your First Agentic Chatbot
 ---
 
-Sep 29
+Oct 1
 : Intro to Agentic AI
 : **Reading**{: .label .label-green } [link](https://arxiv.org/pdf/2308.11432), [link](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
 : **Due**{: .label .label-red } HW2
 
-Oct 1-6
+Oct 6
 : **Lab**{: .label .label-purple } Langchain, LangGraph, RAG: prompting with memory
 
 Oct 8
