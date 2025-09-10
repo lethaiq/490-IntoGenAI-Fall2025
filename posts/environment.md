@@ -148,3 +148,12 @@ Follow the instruction from [Ollama Benchmark](https://github.com/larryhopecode/
 ```
 
 Interesting read on how to optimize Ollama on your local environment: [How to Use Ollama Efficiently](https://www.arsturn.com/blog/handle-high-memory-usage-in-ollama-effectively). Basically, make sure you know what models are currently being served/run. Running multiple models at the same time will make your inference much slower.
+
+# Prioritization
+Here are the prioritization of model that you should use for the course, ordering from top to bottom. Try from top to bottom until you achieve at least 5 tokens per second. 
+- hf.co/unsloth/Qwen3-8B-GGUF:UD-Q4_K_XL (turn off "think" mode by adding `/no_think` into the prompt)
+- https://huggingface.co/unsloth/Qwen3-4B-GGUF (turn off "think" mode by adding `/no_think` into the prompt)
+- huggingface.co/unsloth/Qwen3-0.6B-GGUF:latest (turn off "think" mode by adding `/no_think` into the prompt)
+- hf.co/unsloth/Phi-4-mini-reasoning-GGUF:Q4_K_XL (this model has "think" mode that cannot be turned off)
+- huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF:latest (this model has no "think" mode)
+- llama2:latest (this model has no "think" mode)
