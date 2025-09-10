@@ -4,13 +4,12 @@ title: Overview of Large Language Models / LLM-enabled Chatbots
 
 Sep 15
 : NLP History, Transformers, Transfer Learning
-: **Reading**{: .label .label-green } [link](https://www.wwt.com/blog/a-brief-history-of-nlp) [link](https://sites.gatech.edu/omscs7641/2024/02/07/transfer-learning-for-boosting-neural-network-performance/) 
+: **Reading**{: .label .label-green } [link](https://www.wwt.com/blog/a-brief-history-of-nlp) 
 
 Sep 17
-: LLM Training Mechanisms, Reasonings
+: NLP History, Transformers, Transfer Learning (Cont)
 : **Due**{: .label .label-red } HW1
-: **Reading**{: .label .label-green } [link](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
-: **Tutorial**{: .label .label-purple } Reasoning with Qwen 3
+: **Reading**{: .label .label-green } [link](https://sites.gatech.edu/omscs7641/2024/02/07/transfer-learning-for-boosting-neural-network-performance/) 
 
 Sep 22
 : Intro to Conversational Chatbots
