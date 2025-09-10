@@ -5,7 +5,7 @@ title: Multi-modal Generative AI - Going beyond Text
 Oct 27
 : Understand Programming Languages and Synthesizing Code with Gen AI
 : **Reading**{: .label .label-green } link
-: **Lab**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs
+: **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs
 
 Oct 29
 : Midterm Project Presentation (optional, bonus points)
@@ -19,7 +19,7 @@ Nov 5
 : Image and Video Synthesis with Gen AI: Autogressive vs Diffusion Approach
 
 Nov 10
-: **Lab**{: .label .label-purple } Synthesizing and detecting AI-generated images link
+: **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link
 
 Nov 12
 : Audio Speech Synthesis and Reasoning with Gen AI
@@ -28,4 +28,4 @@ Nov 12
 
 Nov 17
 : **Reading**{: .label .label-green } link
-: **Lab**{: .label .label-purple } Audio scam zero-sum interactive game: link
+: **Tutorial**{: .label .label-purple } Audio scam zero-sum interactive game: link

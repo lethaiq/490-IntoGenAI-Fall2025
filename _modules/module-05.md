@@ -5,7 +5,7 @@ title: Trustworthy and Responsible Gen AI
 Nov 19
 : Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
 : **Reading**{: .label .label-green } link
-: **Lab**{: .label .label-purple } Jailbreaking LLM: link
+: **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
 
 Nov 24–30
 : **Holiday – Thanksgiving Break (No Classes)**
@@ -19,7 +19,7 @@ Dec 3
 : **Reading**{: .label .label-green } link
 
 Dec 8
-: **Lab**{: .label .label-purple } Finger-printing LLM: link
+: **Tutorial**{: .label .label-purple } Finger-printing LLM: link
 
 Dec 10
 : (Cont)

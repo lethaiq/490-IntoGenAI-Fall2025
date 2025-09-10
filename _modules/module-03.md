@@ -8,13 +8,13 @@ Oct 1
 : **Due**{: .label .label-red } HW2
 
 Oct 6
-: **Lab**{: .label .label-purple } Langchain, LangGraph, RAG: prompting with memory
+: **Tutorial**{: .label .label-purple } Langchain, LangGraph, RAG: prompting with memory
 
 Oct 8
-: **Lab**{: .label .label-purple } Langchain, LangGraph, RAG: tool calling 
+: **Tutorial**{: .label .label-purple } Langchain, LangGraph, RAG: tool calling 
 
 Oct 13
-: **Lab**{: .label .label-purple } Mini Project: Build Agentic RAG Chatbot
+: **Tutorial**{: .label .label-purple } Mini Project: Build Agentic RAG Chatbot
 : **Release**{: .label .label-blue } Midterm Project
 
 Oct 15
