@@ -37,6 +37,7 @@ description: >-
 - [Representation Learning: A Review and New
 Perspectives](https://arxiv.org/pdf/1206.5538) [[blog]](https://www.cs.cmu.edu/~vcirik/blog/2016/representation-learning-a-review-and-new-perspectives/)
 - [Book: Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
+- [Agentic AI](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?fbclid=IwY2xjawMvzL1leHRuA2FlbQIxMABicmlkETF1cEFnM3hjZ3JMVXRYcjA3AR60M6Ko3R0RxMeAhnZOBIvhvJU6ht6rXc9_4-SjnTClDsMcHa4balr9n-8pfw_aem_bmqblnNNwD2jA4EvpVzdpw&tab=t.0#heading=h.pxcur8v2qagu)
 
 ## Potential Final (Clone) Projects
  - [[USmotion]](https://www.usemotion.com/)
