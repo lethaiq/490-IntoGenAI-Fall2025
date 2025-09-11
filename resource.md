@@ -22,6 +22,7 @@ description: >-
 - [LLM Leaderboard](https://aider.chat/docs/leaderboards/)
 - [OpenRouter - One API for All Commercial LLMs]([https://openrouter.ai](https://openrouter.ai/))
 - [How to Use Ollama Efficiently](https://www.arsturn.com/blog/handle-high-memory-usage-in-ollama-effectively)
+- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## Prompt Database and Collection
 - [God-tier Prompts](https://www.godtierprompts.com/)
