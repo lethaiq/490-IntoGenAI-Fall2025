@@ -3,7 +3,7 @@ title: Overview of Large Language Models / LLM-enabled Chatbots
 ---
 
 Sep 15 (✔)
-: NLP History, Transformers, Transfer Learning
+: [NLP History, Transformers, Transfer Learning](https://iu.instructure.com/courses/2329710/files/194767987?module_item_id=36869156)
 : **Reading**{: .label .label-green } [link](https://www.wwt.com/blog/a-brief-history-of-nlp) 
 
 Sep 17
