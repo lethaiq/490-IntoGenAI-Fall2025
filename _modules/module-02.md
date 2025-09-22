@@ -13,7 +13,7 @@ Sep 17 (✔)
 
 Sep 22
 : Intro to Conversational Chatbots
-: **Tutorial**{: .label .label-purple } Langchain: single-turn, multi-turn with memory
+: **Tutorial**{: .label .label-purple } Langchain: [intro and single-turn](https://drive.google.com/file/d/1wFN2AZXMidOU2j1vZmXhCzmsv8u-gFm4/view?usp=sharing), multi-turn with memory
 
 Sep 24
 : Prompt-Engineering: Prompt Construction, Mindset and Best Practices
