@@ -6,7 +6,7 @@ Sep 15 (✔)
 : [NLP History, Transformers, Transfer Learning](https://iu.instructure.com/courses/2329710/files/194767987?module_item_id=36869156)
 : **Reading**{: .label .label-green } [link](https://www.wwt.com/blog/a-brief-history-of-nlp) 
 
-Sep 17
+Sep 17 (✔)
 : NLP History, Transformers, Transfer Learning (Cont)
 : **Due**{: .label .label-red } HW1
 : **Reading**{: .label .label-green } [link](https://sites.gatech.edu/omscs7641/2024/02/07/transfer-learning-for-boosting-neural-network-performance/) 
