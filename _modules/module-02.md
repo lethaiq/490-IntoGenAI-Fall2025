@@ -22,15 +22,12 @@ Sep 29 (✔)
 : Prompt-Engineering: Prompt Construction, Techniques, Mindset and Best Practices (Cont)
 : **Reading**{: .label .label-green } [link](https://arxiv.org/pdf/2305.11430)
 
-Oct 1
+Oct 1 (✔)
 : Prompt-Engineering: Prompt Construction, Techniques, Mindset and Best Practices (Cont)
-: **Tutorial**{: .label .label-purple } Langchain: zero-shot, few-shot, in-context learning, advanced techniques
 
 Oct 6
-: Chatbots Customization: Fine-tuning with Reasonings
-: **Reading**{: .label .label-green } [link](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
+: **Tutorial**{: .label .label-purple } Langchain: [starter_code](https://drive.google.com/file/d/19i6tzhQxgdAm7rZ5cihEWd6fnlmycuBV/view?usp=sharing) [zero-shot, few-shot, in-context learning, advanced techniques](#)
 : **Release**{: .label .label-blue } HW2
 
 Oct 8
-: Chatbots Customization: Fine-tuning with Reasonings (Cont)
-: **Tutorial**{: .label .label-purple } Fine-tuning open-source LLMs with RL: link
+: **Tutorial**{: .label .label-purple } Langchain (Cont)

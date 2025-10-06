@@ -15,9 +15,13 @@ Nov 10
 : Quick Introduction to Diffusion Generative Model
 : Image and Video Synthesis with Gen AI: Autogressive vs Diffusion Approach
 : **Reading**{: .label .label-green } link
+: **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link
 
 Nov 12
-: **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link
+: Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
+: Security/Privacy Threats and Risks from/to GenAI
+: **Reading**{: .label .label-green } link
+: **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
 
 Nov 17
 : Audio Speech Synthesis and Reasoning with Gen AI

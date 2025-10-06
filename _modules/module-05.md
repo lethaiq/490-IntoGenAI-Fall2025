@@ -6,14 +6,12 @@ Nov 24–30
 : **Holiday – Thanksgiving Break (No Classes)**
 
 Dec 1
-: Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
-: Security/Privacy Threats and Risks from/to GenAI
-: **Reading**{: .label .label-green } link
-: **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
-
-Dec 3
 : **DUE**{: .label .label-red} Team research paper presentation (in class)
 
+Dec 3
+: Chatbots Customization: Fine-tuning with Reasonings
+: **Reading**{: .label .label-green } [link](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
+: **Tutorial**{: .label .label-purple } Fine-tuning open-source LLMs with RL: link
 
 Dec 8
 : Final Project Sprints
