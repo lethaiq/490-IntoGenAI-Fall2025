@@ -26,7 +26,7 @@ Oct 1 (✔)
 : Prompt-Engineering: Prompt Construction, Techniques, Mindset and Best Practices (Cont)
 
 Oct 6 (✔)
-: **Tutorial**{: .label .label-purple } Prompt Engineering with Langchain: [starter_code](https://drive.google.com/file/d/19i6tzhQxgdAm7rZ5cihEWd6fnlmycuBV/view?usp=sharing) [zero-shot, few-shot, in-context learning, advanced techniques](#)
+: **Tutorial**{: .label .label-purple } Prompt Engineering with Langchain: [starter_code](https://drive.google.com/file/d/19i6tzhQxgdAm7rZ5cihEWd6fnlmycuBV/view?usp=sharing) [zero-shot, few-shot, in-context learning](https://drive.google.com/file/d/1d2caOCEqnpk0vXvkq4Pk-S2MdfdYHHdz/view?usp=sharing)
 
 Oct 8 (✔)
-: **Tutorial**{: .label .label-purple } Prompt Engineering with Langchain (Cont)
+: **Tutorial**{: .label .label-purple } Prompt Engineering with Langchain (Cont)" [advanced techniques](https://drive.google.com/file/d/1X-XoAnmHAhID5Jlvu-7Cm4On6f_-w3Pv/view?usp=sharing)
