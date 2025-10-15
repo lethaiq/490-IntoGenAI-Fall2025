@@ -2,7 +2,7 @@
 title: Building Your First Agentic Chatbot
 ---
 
-Oct 13
+Oct 13 (✔)
 : Intro to Agentic AI
 : **Reading**{: .label .label-green } [link](https://arxiv.org/pdf/2308.11432), [link](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
 : **Release**{: .label .label-blue } [HW2](https://iu.instructure.com/courses/2329710/assignments/18184233)
