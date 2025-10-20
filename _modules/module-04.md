@@ -9,13 +9,13 @@ Nov 3
 
 Nov 5
 : Midterm Project Presentation (optional, bonus points)
-: **Due**{: .label .label-red } Midterm Project
 
 Nov 10
 : Quick Introduction to Diffusion Generative Model
 : Image and Video Synthesis with Gen AI: Autogressive vs Diffusion Approach
 : **Reading**{: .label .label-green } link
 : **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link
+: **Due**{: .label .label-red } Midterm Project
 
 Nov 12
 : Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
