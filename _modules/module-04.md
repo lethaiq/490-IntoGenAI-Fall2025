@@ -3,7 +3,7 @@ title: Multi-modal Generative AI - Going beyond Text
 ---
 
 Nov 3
-: Understand Programming Languages and Synthesizing Code with Gen AI
+: Synthesizing Code with Gen AI
 : **Reading**{: .label .label-green } link
 : **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs
 
