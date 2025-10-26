@@ -15,13 +15,13 @@ Oct 20 (✔)
 : **Release**{: .label .label-blue } [Midterm Project](https://iu.instructure.com/courses/2329710/assignments/18197074)
 : **Tutorial**{: .label .label-purple } Langchain: [memory management](https://drive.google.com/file/d/1NeqqhbykDRMqs7bdbR6zNekkPKQ87W9d/view?usp=sharing)
 
-Oct 22
+Oct 22 (✔)
 : **Tutorial**{: .label .label-purple } Langchain: tool calling, [starter_code](https://drive.google.com/file/d/1obg23vIuRgiAM0DSzsEQYlEx4fsPAop-/view?usp=sharing)
-: **Tutorial**{: .label .label-purple } Mini Project: Build Agentic RAG Chatbot
 
 Oct 27
 : Midterm Review
 : **Due**{: .label .label-red } HW2
+<!-- : **Tutorial**{: .label .label-purple } Mini Project: Build Agentic RAG Chatbot (brief) -->
 
 Oct 29
 : **Due**{: .label .label-red } Midterm Exam (in class)

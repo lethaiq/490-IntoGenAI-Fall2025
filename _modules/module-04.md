@@ -22,12 +22,12 @@ Nov 12
 : Security/Privacy Threats and Risks from/to GenAI
 : **Reading**{: .label .label-green } link
 : **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
-
-Nov 17
-: Audio Speech Synthesis and Reasoning with Gen AI
 : **Release**{: .label .label-blue } Final Project
 : **Release**{: .label .label-blue} Team research paper presentation
 
-Nov 19
+Nov 17
+: Audio Speech Synthesis and Reasoning with Gen AI
 : **Reading**{: .label .label-green } link
+
+Nov 19
 : **Tutorial**{: .label .label-purple } Audio scam zero-sum interactive game: link
