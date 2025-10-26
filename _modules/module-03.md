@@ -16,7 +16,7 @@ Oct 20 (✔)
 : **Tutorial**{: .label .label-purple } Langchain: [memory management](https://drive.google.com/file/d/1NeqqhbykDRMqs7bdbR6zNekkPKQ87W9d/view?usp=sharing)
 
 Oct 22 (✔)
-: **Tutorial**{: .label .label-purple } Langchain: tool calling, [starter_code](https://drive.google.com/file/d/1obg23vIuRgiAM0DSzsEQYlEx4fsPAop-/view?usp=sharing)
+: **Tutorial**{: .label .label-purple } Langchain: [tool calling](https://drive.google.com/file/d/194gjAJktGjW5sLQwGf1IbMByouIYUix6/view?usp=sharing), [starter_code](https://drive.google.com/file/d/1obg23vIuRgiAM0DSzsEQYlEx4fsPAop-/view?usp=sharing)
 
 Oct 27
 : Midterm Review
