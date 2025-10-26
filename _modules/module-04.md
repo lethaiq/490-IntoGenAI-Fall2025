@@ -6,6 +6,7 @@ Nov 3
 : Synthesizing Code with Gen AI
 : **Reading**{: .label .label-green } link
 : **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs
+: **Due**{: .label .label-red } Opt in to present your midterm project in class
 
 Nov 5
 : Midterm Project Presentation (optional, bonus points)
