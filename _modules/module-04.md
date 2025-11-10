@@ -4,7 +4,6 @@ title: Multi-modal Generative AI - Going beyond Text
 
 Nov 3 (✔)
 : Synthesizing Code with Gen AI
-<!-- : **Reading**{: .label .label-green } link -->
 : **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs
 : **Due**{: .label .label-red } Opt in to present your midterm project in class
 
@@ -19,9 +18,6 @@ Nov 10
 : **Due**{: .label .label-red } Midterm Project
 
 Nov 12
-<!-- : Quick Introduction to Diffusion Generative Model
-: Image and Video Synthesis with Gen AI: Autogressive vs Diffusion Approach -->
-<!-- : **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link -->
 : Security/Privacy Threats and Risks from/to GenAI (Cont)
 : **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
 : **Release**{: .label .label-blue } Final Project
