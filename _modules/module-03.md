@@ -18,10 +18,10 @@ Oct 20 (✔)
 Oct 22 (✔)
 : **Tutorial**{: .label .label-purple } Langchain: [tool calling](https://drive.google.com/file/d/194gjAJktGjW5sLQwGf1IbMByouIYUix6/view?usp=sharing), [starter_code](https://drive.google.com/file/d/1obg23vIuRgiAM0DSzsEQYlEx4fsPAop-/view?usp=sharing)
 
-Oct 27
+Oct 27 (✔)
 : Midterm Review
 : **Due**{: .label .label-red } HW2
 <!-- : **Tutorial**{: .label .label-purple } Mini Project: Build Agentic RAG Chatbot (brief) -->
 
-Oct 29
+Oct 29 (✔)
 : **Due**{: .label .label-red } Midterm Exam (in class)

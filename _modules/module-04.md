@@ -2,26 +2,26 @@
 title: Multi-modal Generative AI - Going beyond Text
 ---
 
-Nov 3
+Nov 3 (✔)
 : Synthesizing Code with Gen AI
-: **Reading**{: .label .label-green } link
+<!-- : **Reading**{: .label .label-green } link -->
 : **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs
 : **Due**{: .label .label-red } Opt in to present your midterm project in class
 
-Nov 5
+Nov 5 (✔)
 : Midterm Project Presentation (optional, bonus points)
 
 Nov 10
-: Quick Introduction to Diffusion Generative Model
-: Image and Video Synthesis with Gen AI: Autogressive vs Diffusion Approach
-: **Reading**{: .label .label-green } link
-: **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link
+: Midterm Project Presentation (optional, bonus points) (Cont)
+: Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
+: Security/Privacy Threats and Risks from/to GenAI
 : **Due**{: .label .label-red } Midterm Project
 
 Nov 12
-: Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
-: Security/Privacy Threats and Risks from/to GenAI
-: **Reading**{: .label .label-green } link
+<!-- : Quick Introduction to Diffusion Generative Model
+: Image and Video Synthesis with Gen AI: Autogressive vs Diffusion Approach -->
+<!-- : **Tutorial**{: .label .label-purple } Synthesizing and detecting AI-generated images link -->
+: Security/Privacy Threats and Risks from/to GenAI (Cont)
 : **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
 : **Release**{: .label .label-blue } Final Project
 : **Release**{: .label .label-blue} Team research paper presentation
