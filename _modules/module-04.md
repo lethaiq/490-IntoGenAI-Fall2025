@@ -10,6 +10,7 @@ Nov 3 (✔)
 
 Nov 5 (✔)
 : Midterm Project Presentation (optional, bonus points)
+: **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs (Cont)
 
 Nov 10
 : Midterm Project Presentation (optional, bonus points) (Cont)
@@ -28,7 +29,7 @@ Nov 12
 
 Nov 17
 : Audio Speech Synthesis and Reasoning with Gen AI
-: **Reading**{: .label .label-green } link
+: **Reading**{: .label .label-green } [link](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 
 Nov 19
 : **Tutorial**{: .label .label-purple } Audio scam zero-sum interactive game: link
