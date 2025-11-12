@@ -11,17 +11,17 @@ Nov 5 (✔)
 : Midterm Project Presentation (optional, bonus points)
 : **Tutorial**{: .label .label-purple } Vibe-Coding: Building Web Applications using LLMs (Cont)
 
-Nov 10
+Nov 10 (✔)
 : Midterm Project Presentation (optional, bonus points) (Cont)
 : Trustworthiness of GenAI: Hallucination, Social Alignment, Explanable AI, Safety
 : Security/Privacy Threats and Risks from/to GenAI
-: **Due**{: .label .label-red } Midterm Project
 : **Release**{: .label .label-blue} Team research paper presentation
 
 Nov 12
 : Security/Privacy Threats and Risks from/to GenAI (Cont)
 : **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
 : **Release**{: .label .label-blue } Final Project
+: **Due**{: .label .label-red } Midterm Project
 
 Nov 17
 : Audio Speech Synthesis and Reasoning with Gen AI
