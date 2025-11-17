@@ -17,15 +17,15 @@ Nov 10 (✔)
 : Security/Privacy Threats and Risks from/to GenAI
 : **Release**{: .label .label-blue} Team research paper presentation
 
-Nov 12
+Nov 12 (✔)
 : Security/Privacy Threats and Risks from/to GenAI (Cont)
-: **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
-: **Release**{: .label .label-blue } Final Project
 : **Due**{: .label .label-red } Midterm Project
 
-Nov 17
+Nov 17 (✔)
+: **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
 : Audio Speech Synthesis and Reasoning with Gen AI
-: **Reading**{: .label .label-green } [link](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+: **Release**{: .label .label-blue } Final Project
 
 Nov 19
+: **Reading**{: .label .label-green } [link](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 : **Tutorial**{: .label .label-purple } Audio scam zero-sum interactive game: link
