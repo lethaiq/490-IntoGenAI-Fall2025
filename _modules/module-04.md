@@ -22,10 +22,10 @@ Nov 12 (✔)
 : **Due**{: .label .label-red } Midterm Project
 
 Nov 17 (✔)
-: **Tutorial**{: .label .label-purple } Jailbreaking LLM: link
-: Audio Speech Synthesis and Reasoning with Gen AI
+: **Tutorial**{: .label .label-purple } Jailbreaking LLM: [Hackaprompt2.0](https://www.hackaprompt.com/)
 : **Release**{: .label .label-blue } Final Project
 
 Nov 19
+: Audio Speech Synthesis and Detection with Gen AI
 : **Reading**{: .label .label-green } [link](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 : **Tutorial**{: .label .label-purple } Audio scam zero-sum interactive game: link
