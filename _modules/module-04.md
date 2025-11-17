@@ -21,7 +21,7 @@ Nov 12 (✔)
 : Security/Privacy Threats and Risks from/to GenAI (Cont)
 : **Due**{: .label .label-red } Midterm Project
 
-Nov 17 (✔)
+Nov 17
 : **Tutorial**{: .label .label-purple } Jailbreaking LLM: [Hackaprompt2.0](https://www.hackaprompt.com/)
 : **Release**{: .label .label-blue } Final Project
 
